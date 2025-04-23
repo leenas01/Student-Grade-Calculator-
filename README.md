@@ -15,7 +15,7 @@ A Java-based application that calculates total marks, average percentage, and as
 
 ## 🚀 Getting Started
 1. Clone the repository  
-   `git clone https://github.com/yourusername/grade-calculator.git`
+https://github.com/leenas01/Student-Grade-Calculator-.git
 2. Open in your preferred IDE
 3. Compile and run `StudentGradeCalculator.java`
 
